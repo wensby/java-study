@@ -1,0 +1,8 @@
+div.movie-list > table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+div.movie-list tr, div.movie-list td, div.movie-list th {
+  border: 1px solid black;
+}
